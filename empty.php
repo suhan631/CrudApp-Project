@@ -15,6 +15,7 @@
 </head>
 <body>
     No data available. </br>
+    <button>add me</button>
     <a class="btn btn-primary" href="index.php">Back to add information page</a>
 </body>
 </html>
